@@ -12,3 +12,5 @@ hidden: true
 ---
 
 Review coming on 6 Aug 2020
+
+Published by Avon Books - Find them on Twitter @AvonBooksUK or Instagram @avon_books

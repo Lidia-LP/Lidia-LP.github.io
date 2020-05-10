@@ -11,4 +11,7 @@ featured: true
 hidden: true
 ---
 
-Review coming on 23 Jul 2020
+This novel is the perfect escapist read - something we all need at the moment!
+The book will be published by Random House UK, Cornerstone on 1 Jul 2020. 
+
+You can follow the author and the publisher on social at @LisaWritesStuff and @arrowpublishing.
