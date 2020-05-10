@@ -4,7 +4,7 @@ title:  "The Paris Library by Janet Skeslien Charles"
 author: lidia
 categories: [ novel ]
 tags: []
-image: assets/images/the_paris_library.jpg
+image: "assets/images/The Paris Library.jpg"
 description: "My review of The Paris Library by Janet Skeslien Charles"
 rating: 
 featured: true

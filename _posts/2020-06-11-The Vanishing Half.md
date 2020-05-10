@@ -4,7 +4,7 @@ title:  "The Vanishing Half by Brit Bennett"
 author: lidia
 categories: [ novel ]
 tags: []
-image: assets/images/the_vanishing_half.jpg
+image: "assets/images/The Vanishing Half.jpg"
 description: "My review of The Vanishing Half by Brit Bennett"
 rating: 
 featured: true
