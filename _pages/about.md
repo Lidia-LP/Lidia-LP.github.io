@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About me...
+title: About 
 permalink: /about
 comments: true
 ---
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
-
+<h4>About me<h4>
 <p>“*italic*When somebody tells me I can’t do something, that’s when I do it!*italic*” – Gertrude Ederle<p>
 
 <p>This is the quote I try to live by. I am determined and love exploring and learning new things.<p>
@@ -19,15 +19,16 @@ My favourite genres include contemporary and historial fiction, thrillers and mo
 
 <p>When not reading, you can find me drinking coffee, swimming, learning piano, attempting to cook and (if I am lucky) travelling.<p>
 
-<h1>About this website<h1>
+<h4>About this website<h4>
 <p>This website is built with Jekyll and Mediumish template for Jekyll. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+# <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
+
+<h5>Documentation</h5>
 
 <p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
 
-<h4>Questions or bug reports?</h4>
+<h5>Questions or bug reports?</h5>
 
 <p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
 
@@ -40,7 +41,8 @@ My favourite genres include contemporary and historial fiction, thrillers and mo
 
 <p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> 
+<a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
 
 </div>
 </div>
