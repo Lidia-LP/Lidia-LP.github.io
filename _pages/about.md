@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About me...
 permalink: /about
 comments: true
 ---
@@ -8,7 +8,7 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>“When somebody tells me I can’t do something, that’s when I do it!” – Gertrude Ederle<p>
+<p>“*italic*When somebody tells me I can’t do something, that’s when I do it!*italic*” – Gertrude Ederle<p>
 
 <p>This is the quote I try to live by. I am determined and love exploring and learning new things.<p>
 
@@ -19,6 +19,7 @@ My favourite genres include contemporary and historial fiction, thrillers and mo
 
 <p>When not reading, you can find me drinking coffee, swimming, learning piano, attempting to cook and (if I am lucky) travelling.<p>
 
+<h1>About this website<h1>
 <p>This website is built with Jekyll and Mediumish template for Jekyll. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
