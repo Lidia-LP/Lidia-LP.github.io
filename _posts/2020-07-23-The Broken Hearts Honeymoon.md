@@ -4,7 +4,7 @@ title:  "The Broken Hearts Honeymoon by Lucy Dickens"
 author: lidia
 categories: [ novel ]
 tags: []
-image: "assets/images/The Broken Hearts Honeymoon.jpg"
+image: "assets/images/The Broken Hearts Honeymoon.png"
 description: "My review of The Broken Hearts Honeymoon by Lucy Dickens"
 rating: 
 featured: true
