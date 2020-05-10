@@ -16,3 +16,5 @@ My favourite genres include contemporary and historial fiction, thrillers and mo
 Since 2018, I host a monthly book club with staff and students from my university. We alternate the topics (which have included first book of authors and translated works) and genres (historical fiction, contemporary fiction, non-fiction).
 
 When not reading, you can find me drinking coffee, swimming, learning piano, attempting to cook and (if I am lucky) travelling.
+
+![Image](https://lidia-lp.github.com/assets/images/1.jpg)
