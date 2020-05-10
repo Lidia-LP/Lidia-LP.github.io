@@ -1,12 +1,11 @@
 ---
 layout: page
-title: About 
+title: "About me"
 permalink: /about
 comments: true
 ---
-# About me
 
-> “*italic*When somebody tells me I can’t do something, that’s when I do it!*italic*” 
+> “*When somebody tells me I can’t do something, that’s when I do it!*” 
 > – Gertrude Ederle
 
 This is the quote I try to live by. I am determined and love exploring and learning new things.
