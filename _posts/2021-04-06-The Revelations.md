@@ -8,7 +8,7 @@ image: "assets/images/The Revelations.jpg"
 description: "My review of The Revelations by Erik Hoel"
 rating: 
 featured: false
-hidden: true
+hidden: false
 ---
 
 Review coming on 6 Apr 2021

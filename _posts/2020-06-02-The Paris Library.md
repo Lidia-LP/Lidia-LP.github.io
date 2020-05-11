@@ -8,7 +8,7 @@ image: "assets/images/The Paris Library.jpg"
 description: "My review of The Paris Library by Janet Skeslien Charles"
 rating: 
 featured: true
-hidden: true
+hidden: false
 ---
 
 Review coming on 2 Jun 2020

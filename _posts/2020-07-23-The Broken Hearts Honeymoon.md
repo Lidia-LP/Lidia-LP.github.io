@@ -8,7 +8,7 @@ image: "assets/images/The Broken Hearts Honeymoon.png"
 description: "My review of The Broken Hearts Honeymoon by Lucy Dickens"
 rating: 
 featured: false
-hidden: true
+hidden: false
 ---
 
 This novel is the perfect escapist read - something we all need at the moment!

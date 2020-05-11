@@ -8,7 +8,7 @@ image: "assets/images/Mostly Dead Things.jpg"
 description: "My review of Mostly Dead Things by Kristen Arnett"
 rating: 
 featured: false
-hidden: true
+hidden: false
 ---
 
 This book will be published by Brown Book Group UK on 2 Jul 2020.

@@ -8,7 +8,7 @@ image: "assets/images/Guantanamo Voices.jpg"
 description: "My review of Guantanamo Voices by Sarah Mirk"
 rating: 
 featured: false
-hidden: true
+hidden: false
 ---
 
 Review coming on 8 Sep 2020

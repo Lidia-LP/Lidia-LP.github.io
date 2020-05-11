@@ -8,7 +8,7 @@ image: "assets/images/The Secrets of Saffron Hall.jpg"
 description: "My review of The Secrets of Saffron Hall by Clare Marchant"
 rating: 
 featured: false
-hidden: true
+hidden: false
 ---
 
 Review coming on 6 Aug 2020
