@@ -6,7 +6,7 @@ categories: [ novel ]
 tags: []
 image: "assets/images/Scenes of a Graphic Nature.jpg"
 description: "My review of Scenes of a Graphic Nature by Caroline O'Donoghe"
-rating: 4
+rating: 3.5
 featured: true
 hidden: true
 ---
