@@ -2,7 +2,7 @@
 layout: post
 title:  "The Real Coco Chanel by Rose Sgueglia"
 author: lidia
-categories: [ novel ]
+categories: [ Biographies & Memoirs, Nonfiction (Adult) ]
 tags: []
 image: "assets/images/The Real Coco Chanel.jpg"
 description: "My review of The Real Coco Chanel by Rose Sgueglia"

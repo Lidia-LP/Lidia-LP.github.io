@@ -2,7 +2,7 @@
 layout: post
 title:  "Mostly Dead Things by Kristen Arnett"
 author: lidia
-categories: [ novel ]
+categories: [ General Fiction (Adult) ]
 tags: []
 image: "assets/images/Mostly Dead Things.jpg"
 description: "My review of Mostly Dead Things by Kristen Arnett"

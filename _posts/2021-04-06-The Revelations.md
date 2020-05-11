@@ -2,7 +2,7 @@
 layout: post
 title:  "The Revelations by Erik Hoel"
 author: lidia
-categories: [ novel ]
+categories: [ General Fiction (Adult) ]
 tags: []
 image: "assets/images/The Revelations.jpg"
 description: "My review of The Revelations by Erik Hoel"

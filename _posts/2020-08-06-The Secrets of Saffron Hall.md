@@ -2,7 +2,7 @@
 layout: post
 title:  "The Secrets of Saffron Hall by Clare Marchant"
 author: lidia
-categories: [ novel ]
+categories: [ General Fiction (Adult), Historical Fiction ]
 tags: []
 image: "assets/images/The Secrets of Saffron Hall.jpg"
 description: "My review of The Secrets of Saffron Hall by Clare Marchant"

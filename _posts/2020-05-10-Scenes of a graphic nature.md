@@ -2,7 +2,7 @@
 layout: post
 title:  "Scenes of a Graphic Nature by Caroline O'Donoghe"
 author: lidia
-categories: [ novel ]
+categories: [ General Fiction (Adult) ]
 tags: []
 image: "assets/images/Scenes of a Graphic Nature.jpg"
 description: "My review of Scenes of a Graphic Nature by Caroline O'Donoghe"

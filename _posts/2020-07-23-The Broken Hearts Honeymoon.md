@@ -2,7 +2,7 @@
 layout: post
 title:  "The Broken Hearts Honeymoon by Lucy Dickens"
 author: lidia
-categories: [ novel ]
+categories: [ General Fiction (Adult), Romance ]
 tags: []
 image: "assets/images/The Broken Hearts Honeymoon.png"
 description: "My review of The Broken Hearts Honeymoon by Lucy Dickens"
