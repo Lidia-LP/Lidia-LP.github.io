@@ -7,7 +7,7 @@ tags: []
 image: "assets/images/The Revelations.jpg"
 description: "My review of The Revelations by Erik Hoel"
 rating: 
-featured: true
+featured: false
 hidden: true
 ---
 
