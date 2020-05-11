@@ -7,7 +7,7 @@ tags: []
 image: "assets/images/Guantanamo Voices.jpg"
 description: "My review of Guantanamo Voices by Sarah Mirk"
 rating: 
-featured: true
+featured: false
 hidden: true
 ---
 

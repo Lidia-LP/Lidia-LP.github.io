@@ -7,7 +7,7 @@ tags: []
 image: "assets/images/The Vanishing Half.jpg"
 description: "My review of The Vanishing Half by Brit Bennett"
 rating: 
-featured: true
+featured: false
 hidden: true
 ---
 

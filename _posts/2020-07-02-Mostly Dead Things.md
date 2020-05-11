@@ -7,7 +7,7 @@ tags: []
 image: "assets/images/Mostly Dead Things.jpg"
 description: "My review of Mostly Dead Things by Kristen Arnett"
 rating: 
-featured: true
+featured: false
 hidden: true
 ---
 

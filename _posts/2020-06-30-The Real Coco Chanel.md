@@ -7,7 +7,7 @@ tags: []
 image: "assets/images/The Real Coco Chanel.jpg"
 description: "My review of The Real Coco Chanel by Rose Sgueglia"
 rating: 
-featured: true
+featured: false
 hidden: true
 ---
 

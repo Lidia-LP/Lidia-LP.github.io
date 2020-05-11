@@ -7,7 +7,7 @@ tags: []
 image: "assets/images/The Secrets of Saffron Hall.jpg"
 description: "My review of The Secrets of Saffron Hall by Clare Marchant"
 rating: 
-featured: true
+featured: false
 hidden: true
 ---
 
