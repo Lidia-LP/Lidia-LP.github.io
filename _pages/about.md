@@ -17,4 +17,4 @@ Since 2018, I host a monthly book club with staff and students from my universit
 
 When not reading, you can find me drinking coffee, swimming, learning piano, attempting to cook and (if I am lucky) travelling.
 
-![My Octocat] <img src="assets/images/octocat-Lidia.png" alt="drawing" width="100"/>
+<img alt-txt="My Octocat" src="assets/images/octocat-Lidia.png" alt="drawing" width="150"/>
