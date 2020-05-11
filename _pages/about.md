@@ -9,7 +9,7 @@ comments: true
 > – Gertrude Ederle
 
 This is the quote I try to live by. I am determined and love exploring and learning new things. 
-<img alt-txt="My Octocat" style="float: right" src="assets/images/octocat-Lidia.png" alt="drawing" width="150"/> 
+<img alt-txt="My Octocat" style="float: left" src="assets/images/octocat-Lidia.png" alt="drawing" width="300"/> 
 I am obsessed with all things books (in English, French and Spanish)! 
 My favourite genres include contemporary and historial fiction, thrillers and most recently, romance. I am a scientist (studied neuroscience and public health) and love the occasional non-fiction general science book.
 
