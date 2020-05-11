@@ -2,7 +2,7 @@
 name: "What Lidia Reads"
 title: "What Lidia Reads"
 description: "Curious to know my thoughts about what I've been reading?"
-logo: <img src="assets/images/logo.png" alt="drawing" width="300"/>
+logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 # baseurl: /lidia-lp.github.io
 # google_analytics: 'UA-46278016-1'
